@@ -17,7 +17,6 @@ Gear Production - Making a hacker's equipment. The empire controls the most esse
 Argent Peak Sect toolset - Python and an initial set of Argent Peak sect libraries available by pip. Argent Peak Sect augmentation toolkit, and hacking toolkit. 
 
 Su Ling, Li Suyin's housemate
----
 Cyborg
 
 Made by her mad scientist mother
